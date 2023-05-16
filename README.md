@@ -11,3 +11,5 @@ Easytable es un proyecto de software de escritorio que permite a los clientes re
 * ESP32: Se requiere una ESP32 con sensores de calidad del aire, temperatura y ruido instalados en cada restaurante participante.
 
 * Sistema operativo: Easytable es compatible con Windows, macOS y Linux.
+
+![Página principal de EasuTable](EasyTable/src/img/easytable.PNG)
