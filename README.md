@@ -1,7 +1,4 @@
 # EasyTable
-
-![Página principal de EasuTable](EasyTable/src/img/easytable.PNG)
-
 Easytable es un proyecto de software de escritorio que permite a los clientes realizar reservas en restaurantes utilizando datos de sensores instalados en el local. El programa utiliza información recopilada por sensores de calidad del aire, temperatura y ruido, todos ellos conectados a una ESP32.
 
 ## Características principales
@@ -21,3 +18,5 @@ Easytable es un proyecto de software de escritorio que permite a los clientes re
 Si tienes alguna pregunta o sugerencia sobre EasyTable, por favor, no dudes en ponerte en contacto.
 
 ¡Gracias por utilizar EasyTable y ser parte del emocionante mundo del IOT!
+
+![Página principal de EasuTable](EasyTable/src/img/easytable.PNG)
