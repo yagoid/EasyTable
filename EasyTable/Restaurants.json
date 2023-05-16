@@ -1,0 +1,53 @@
+[
+  {
+    "storename": "Sport",
+    "storeaddress": "Av. pedredol",
+    "floorsuite": "12",
+    "namer": "Pedro",
+    "surname1r": "Diaz",
+    "surname2r": "Bar",
+    "mailr": "sport@gmail.com",
+    "passwordr": "123123123",
+    "valoracion": 4.7,
+    "ica": 14.3,
+    "humedad": 72.3,
+    "temperatura": 29.10,
+    "ruido": 33.0,
+    "timestamp": "Dec 18, 2021 2:36:32 PM",
+    "datetime": "Dec 18, 2021 2:36:32 PM"
+  },
+  {
+    "storename": "Tienda1",
+    "storeaddress": "Av. Tienda 1",
+    "floorsuite": "32",
+    "namer": "tienda1",
+    "surname1r": "tien",
+    "surname2r": "da",
+    "mailr": "tienda1@gmail.com",
+    "passwordr": "123123123",
+    "valoracion": 2.2,
+    "ica": 16.3,
+    "humedad": 81.6,
+    "temperatura": 28.60,
+    "ruido": 23.8,
+    "timestamp": "Jan 22, 2022 8:23:54 PM",
+    "datetime": "Jan 22, 2022 8:23:54 PM"
+  },
+  {
+    "storename": "Sushi",
+    "storeaddress": "Av. América",
+    "floorsuite": "11",
+    "namer": "Sushi",
+    "surname1r": "ish",
+    "surname2r": "es",
+    "mailr": "sushi@gmail.com",
+    "passwordr": "123123123",
+    "valoracion": 4.3,
+    "ica": 11.0,
+    "humedad": 79.3,
+    "temperatura": 26.10,
+    "ruido": 35.4,
+    "timestamp": "Jan 28, 2022 8:23:54 PM",
+    "datetime": "Jan 28, 2022 8:23:54 PM"
+  }
+]

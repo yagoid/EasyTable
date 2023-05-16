@@ -1,0 +1,57 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.pane1 {
+	-fx-background-image: url('../img/img1.jpg');
+	-fx-background-size: 100%; 
+	-fx-background-repeat: no-repeat;
+}
+
+.pane2 {
+	-fx-background-image: url('../img/img2.jpg');
+	-fx-background-size: 100%;
+	-fx-background-repeat: no-repeat;
+}
+
+.pane3 {
+	-fx-background-image: url('../img/img3.jpg');
+	-fx-background-size: 100%;
+	-fx-background-repeat: no-repeat;
+}
+
+.pane4 {
+	-fx-background-image: url('../img/img4.jpg');
+	-fx-background-size: 100%;
+	-fx-background-repeat: no-repeat;
+}
+
+.pane_client{
+    -fx-background-image: url("../img/client.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 135%;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 0, 0, 0, 0); 
+}
+
+.pane_restaurant{
+    -fx-background-image: url("../img/restaurant.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 100%;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 0, 0, 0, 0); 
+}
+
+.homeBTNS {
+    -fx-background-color: #ff895e;       
+}
+
+.homeBTNS:hover {
+    -fx-background-color: #EE5D5D;   
+}
+
+.header {
+    -fx-background-color:  #BF8226;   
+}
+
+.gradpane{
+	-fx-background-color: linear-gradient(#5588ff, #ffa2b1);
+}
